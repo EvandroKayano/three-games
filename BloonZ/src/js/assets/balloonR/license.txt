@@ -1,0 +1,11 @@
+Model Information:
+* title:	Red Balloon 3D Model
+* source:	https://sketchfab.com/3d-models/red-balloon-3d-model-b6cc382b630b41f7b1573c583aaf4045
+* author:	Sufi_Artist (https://sketchfab.com/Sufi_Artist)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Red Balloon 3D Model" (https://sketchfab.com/3d-models/red-balloon-3d-model-b6cc382b630b41f7b1573c583aaf4045) by Sufi_Artist (https://sketchfab.com/Sufi_Artist) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
