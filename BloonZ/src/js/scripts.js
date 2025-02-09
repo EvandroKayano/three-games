@@ -1,8 +1,8 @@
-import * as CANNON from 'https://unpkg.com/cannon-es@0.19.0/dist/cannon-es.js'
-import * as THREE from 'https://unpkg.com/three@0.122.0/build/three.module.js'
-import Stats from 'https://unpkg.com/three@0.122.0/examples/jsm/libs/stats.module.js'
-import { PointerLockControlsCannon } from '../js/PointerLockControlsCannon.js'
-import { GLTFLoader } from 'https://unpkg.com/three@0.122.0/examples/jsm/loaders/GLTFLoader.js';
+import * as CANNON from 'cannon-es';
+import * as THREE from 'three';
+import Stats from 'three/examples/jsm/libs/stats.module.js';
+import { PointerLockControlsCannon } from '../js/PointerLockControlsCannon.js';
+import { GLTFLoader } from 'three/examples/jsm/loaders/GLTFLoader.js';
 
 // three.js variables
 let camera, scene, renderer, stats;
